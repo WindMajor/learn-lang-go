@@ -1,0 +1,41 @@
+# === Go ===
+# 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-downloader
+myapp
+*.test
+
+# 测试覆盖率
+*.out
+coverage.txt
+
+# go.sum（通常需要提交，这里列出供参考；实际项目建议提交）
+# go.sum
+
+# === IDE & Editor ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# === 操作系统 ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === 临时文件 ===
+/tmp/
+*.tmp
+*.log
+
+# === 下载产物（毕业设计输出的文件） ===
+/downloads/
+
+# === 缓存 ===
+.cache/

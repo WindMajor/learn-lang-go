@@ -1,0 +1,11 @@
+# 示例 URL 列表（每行一个）
+# 以 # 开头的行为注释
+
+# 大型文件测试
+https://go.dev/dl/go1.22.0.src.tar.gz
+
+# 图片测试
+https://go.dev/images/gophers/motorcycle.svg
+
+# 文本测试
+https://go.dev/LICENSE
