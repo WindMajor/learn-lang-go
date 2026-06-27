@@ -1,3 +1,3 @@
-module github.com/user/go-basic-learn/level-02
+module github.com/user/learn-lang-go/level-02
 
 go 1.22

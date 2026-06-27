@@ -15,7 +15,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/user/go-basic-learn/level-11/downloader"
+	"github.com/user/learn-lang-go/level-11/downloader"
 )
 
 func main() {

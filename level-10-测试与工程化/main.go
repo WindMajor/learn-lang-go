@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/user/go-basic-learn/level-10/calc"
+	"github.com/user/learn-lang-go/level-10/calc"
 )
 
 func main() {

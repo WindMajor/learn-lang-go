@@ -1,4 +1,4 @@
-# go-basic-learn — Go 语言闯关式学习项目
+# learn-lang-go — Go 语言闯关式学习项目
 
 > **写给谁？** 一位熟悉 TypeScript（深度）、Rust（深度）、C（熟练）、Python（了解）的全栈开发者。
 > **不是什么？** 不是小白教程，不讲"什么是变量"。
@@ -13,8 +13,8 @@
 go version
 
 # 创建项目目录（如果你是第一次接触本项目）
-mkdir -p ~/Dev/Learn/go-basic-learn
-cd ~/Dev/Learn/go-basic-learn
+mkdir -p ~/Dev/Learn/learn-lang-go
+cd ~/Dev/Learn/learn-lang-go
 ```
 
 ---
@@ -74,7 +74,7 @@ go run bug_01_短声明作用域陷阱.go  # 看错误
 ## 项目总览
 
 ```
-go-basic-learn/
+learn-lang-go/
 ├── README.md                              # 你在这里
 ├── level-01-编译模型与类型系统/
 │   ├── README.md

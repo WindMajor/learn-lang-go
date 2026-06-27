@@ -90,7 +90,7 @@ func main() {
 
 	// 方式 2：var 声明 + 初始化
 	var maxSize int = 1024
-	var appName = "go-basic-learn" // 类型推导
+	var appName = "learn-lang-go" // 类型推导
 	fmt.Printf("var maxSize int = 1024  → %d\n", maxSize)
 	fmt.Printf("var appName = \"...\"     → %s (类型: %T)\n\n", appName, appName)
 

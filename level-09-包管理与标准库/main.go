@@ -27,7 +27,7 @@ func main() {
 	//      - 减少关键词
 	//      - 从名字就看出是否导出（读代码时省掉一跳）
 	//      - 代价：不能通过改大小写来区分"相同名字不同可见性"
-	fmt.Println("  模块名: github.com/user/go-basic-learn/level-09")
+	fmt.Println("  模块名: github.com/user/learn-lang-go/level-09")
 	fmt.Println("  可见性规则: 首字母大写=导出, 小写=私有")
 
 	// 调用本包内的导出函数和私有函数
